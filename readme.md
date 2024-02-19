@@ -1,1 +1,2 @@
-nama: Nuha Lina Atqia
+name: Nuha Lina Atqia
+hobby: see the movie
